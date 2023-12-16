@@ -1,0 +1,15 @@
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe.config
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.AssemblyReference.cache
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.Form1.resources
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.Properties.Resources.resources
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.GenerateResource.cache
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.exe
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.pdb
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.DashBoard.resources
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.AllControl.AddRoom.resources
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.AllControl.CostumerR.resources
+C:\Users\fatim\OneDrive\Masaüstü\HotelReservationSystem\HotelReservationSystem\obj\Debug\HotelReservationSystem.AllControl.CostumerDetails.resources
